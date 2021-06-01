@@ -1,0 +1,27 @@
+{
+  "name": "musictracksearch-backend",
+  "version": "1.0.0",
+  "description": "Recommerce Engineer Coding Puzzle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rafaroju89/spotify-api-backend.git"
+  },
+  "author": "Rafael Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaroju89/spotify-api-backend/issues"
+  },
+  "homepage": "https://github.com/rafaroju89/spotify-api-backend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "btoa": "^1.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1"
+  }
+}
