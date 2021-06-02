@@ -10,7 +10,7 @@ Installation:
 
 To Start Server:
 
-## `yarn start`  
+## ` node .\index.js or nodemon .\index.js`  
 
 EndPoints:
 
