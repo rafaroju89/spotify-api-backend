@@ -1,6 +1,5 @@
 ## Music Track Searcher Backend App
 
-
 Autor: Rafael Rodríguez Juárez
 
 A Backend application developed with NodeJS used to filter data (Artists, Albums and Tracks) from Spotify API
