@@ -3,7 +3,7 @@
 
 Autor: Rafael Rodríguez Juárez
 
-An application used to filter data (Artists, Albums and Tracks) from Spotify API
+A Backend application developed with NodeJS used to filter data (Artists, Albums and Tracks) from Spotify API
 
 Installation:
 
@@ -13,9 +13,13 @@ To Start Server:
 
 ## `yarn start`  
 
-To Visit App:
+EndPoints:
 
-## `localhost:8081/`  
+## `http://localhost:8081/v1/artists/<artist>`  
+## `http://localhost:8081/v1/albums/<album>`  
+## `http://localhost:8081/v1/tracks/<track>`  
+## `http://localhost:8081/v1/artists/details/<id>`  
+## `http://localhost:8081/v1/albums/details/<id>`  
 
 
 
